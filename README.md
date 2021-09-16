@@ -1,6 +1,6 @@
 # App - Gestion_horarios_aws
 
-Se realizara un app para la gestion y control de horarios en manantial utilizando las herramientas de AWS Amplify
+Se realizara un app para la gestion y control de horarios en la empresa Manantial utilizando las herramientas de AWS Amplify
 
 ## Empecemos
 
