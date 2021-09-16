@@ -1,16 +1,15 @@
-# gestion_horarios_aws
+# App - Gestion_horarios_aws
 
-A new Flutter project.
+Se realizara un app para la gestion y control de horarios en manantial utilizando las herramientas de AWS Amplify
 
-## Getting Started
+## Empecemos
 
-This project is a starting point for a Flutter application.
+## Login
 
-A few resources to get you started if this is your first Flutter project:
+![Captura](https://user-images.githubusercontent.com/79339173/133559553-354aa690-e8cd-441f-82c3-ea85021643b0.PNG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Registro
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Captura1](https://user-images.githubusercontent.com/79339173/133560305-19209c0b-81c6-4d3b-abe3-2ba56d5bcc02.PNG)
+
+
